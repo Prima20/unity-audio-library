@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7da81f041d855c948a8494996fe90fee, type: 3}
+  m_Name: AudioLibraryAsset
+  m_EditorClassIdentifier: 
+  AudioBGM:
+    _audioCategoryList:
+    - _categoryName: Background
+      _audioLabelList:
+      - _label: Level1
+        _audioClip: {fileID: 8300000, guid: db5bbdbb67ae43b4ea40b202080ff356, type: 3}
+  AudioSFX:
+    _audioCategoryList:
+    - _categoryName: SoundEffect
+      _audioLabelList:
+      - _label: Fire
+        _audioClip: {fileID: 8300000, guid: 2a3b60b73f7b43d46af14fdfcb211dd3, type: 3}
+      - _label: helic
+        _audioClip: {fileID: 8300000, guid: 6fff85134d469df42962febad28479dc, type: 3}
