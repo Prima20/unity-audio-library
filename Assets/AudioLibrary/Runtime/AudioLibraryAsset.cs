@@ -37,9 +37,9 @@ namespace AudioLibrary
     public sealed class AudioLibraryAsset : ScriptableObject
     {
         [SerializeField]
-        AudioData AudioBGM;
+        private AudioData AudioBGM;
         [SerializeField]
-        AudioData AudioSFX;
+        private AudioData AudioSFX;
 
         public AudioClip GetSFXAudio(string categoryName,string labelName)
         {
