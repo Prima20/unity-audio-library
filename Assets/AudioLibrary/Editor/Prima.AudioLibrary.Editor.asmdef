@@ -1,0 +1,17 @@
+{
+    "name": "Prima.AudioLibrary.Editor",
+    "references": [
+        "GUID:1b7edcd0b76cd1d4984a0c9d5fb04f23"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
